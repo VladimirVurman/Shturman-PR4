@@ -1,0 +1,20 @@
+﻿  PR3 Shturman.cpp
+C:\Users\wango\source\repos\PR3 Shturman\PR3 Shturman\PR3 Shturman.cpp(297,7): error C2065: x: необъявленный идентификатор
+C:\Users\wango\source\repos\PR3 Shturman\PR3 Shturman\PR3 Shturman.cpp(297,16): error C2065: y: необъявленный идентификатор
+C:\Users\wango\source\repos\PR3 Shturman\PR3 Shturman\PR3 Shturman.cpp(298,7): error C2065: x: необъявленный идентификатор
+C:\Users\wango\source\repos\PR3 Shturman\PR3 Shturman\PR3 Shturman.cpp(298,16): error C2065: y: необъявленный идентификатор
+C:\Users\wango\source\repos\PR3 Shturman\PR3 Shturman\PR3 Shturman.cpp(299,7): error C2065: x: необъявленный идентификатор
+C:\Users\wango\source\repos\PR3 Shturman\PR3 Shturman\PR3 Shturman.cpp(299,16): error C2065: y: необъявленный идентификатор
+C:\Users\wango\source\repos\PR3 Shturman\PR3 Shturman\PR3 Shturman.cpp(300,7): error C2065: x: необъявленный идентификатор
+C:\Users\wango\source\repos\PR3 Shturman\PR3 Shturman\PR3 Shturman.cpp(300,16): error C2065: y: необъявленный идентификатор
+C:\Users\wango\source\repos\PR3 Shturman\PR3 Shturman\PR3 Shturman.cpp(301,3): error C2562: task163: функция типа "void", возвращающая значение
+C:\Users\wango\source\repos\PR3 Shturman\PR3 Shturman\PR3 Shturman.cpp(293): message : см. объявление "task163"
+C:\Users\wango\source\repos\PR3 Shturman\PR3 Shturman\PR3 Shturman.cpp(304,2): error C2601: main: недопустимые локальные определения функций
+C:\Users\wango\source\repos\PR3 Shturman\PR3 Shturman\PR3 Shturman.cpp(293): message : эта строка содержит скобку "{", которая пока не имеет парной
+C:\Users\wango\source\repos\PR3 Shturman\PR3 Shturman\PR3 Shturman.cpp(321,38): error C3861: quadrant: идентификатор не найден
+C:\Users\wango\source\repos\PR3 Shturman\PR3 Shturman\PR3 Shturman.cpp(322,38): error C3861: quadrant: идентификатор не найден
+C:\Users\wango\source\repos\PR3 Shturman\PR3 Shturman\PR3 Shturman.cpp(328,38): error C3861: quadrant: идентификатор не найден
+C:\Users\wango\source\repos\PR3 Shturman\PR3 Shturman\PR3 Shturman.cpp(343,1): error C2059: синтаксическая ошибка: }
+C:\Users\wango\source\repos\PR3 Shturman\PR3 Shturman\PR3 Shturman.cpp(343,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\wango\source\repos\PR3 Shturman\PR3 Shturman\PR3 Shturman.cpp(348,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\wango\source\repos\PR3 Shturman\PR3 Shturman\PR3 Shturman.cpp(348,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
